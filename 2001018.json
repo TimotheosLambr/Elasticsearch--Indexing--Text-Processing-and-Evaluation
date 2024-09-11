@@ -1,0 +1,721 @@
+{
+"organisation":"BeyGOOD",
+"location":"Los Angeles Beyonce",
+"person":" Beyonce Knowles-Cartel",
+"animal":"dog",
+"explanation":"Our work helps organizations, institutions, and people work to transform their communities into places of well-being, economic prosperity, generosity, and justice.",
+"queries":
+[
+  {
+    "number":1,
+    "original_query":"what is Beyoncé Knowles-Carter known for?",
+    "keyword_query":"Beyoncé Knowles-Carter",
+    "kibana_query":
+    {
+      "query":
+{
+        "multi_match":
+  {
+          "query":"Beyoncé Knowles-Carter",
+          "fields":[],
+          "type":"best_fields"
+        }
+      }
+    },
+    "answer_type":"person",
+    "matches":
+    [
+      {
+  "docid":"48232226",
+  "sentences":
+  [
+    "Blue Ivy Carter (born January 7, 2012) is an American singer. She is the first-born daughter of musicians Jay-Z and Beyoncé. Two days after her birth, Time dubbed Carter the most famous baby in the world. That same day, her vocals were featured on the song Glory, by her father Jay-Z, which earned her a Guinness World Record for being the youngest person to have a charted song on any Billboard chart. She has been the subject of depictions in media, including impersonations on Saturday Night Live and RuPaul's Drag Race.",
+    "On August 28, 2011, Beyoncé's pregnancy was announced during her performance of Love On Top at the 2011 MTV Video Music Awards. She finished the performance by unbuttoning her blazer and rubbing her stomach to confirm the pregnancy. Blue Ivy Carter was born on January 7, 2012, to Beyoncé and Jay-Z at Lenox Hill Hospital in Manhattan, New York. CBS wrote Carter was Arguably the world's most famous baby, aside from Prince George and North West, the eldest child of Kim Kardashian and Kanye West. Two days after her birth, Time dubbed Carter the most famous baby in the world. Since her birth, her parents have worked to secure trademarks of their daughter's name for everything, including books, shampoos, video games, and more. Beyoncé argued Carter is a cultural icon during the trademark process. Through her mother, Carter is a granddaughter of Tina and Mathew Knowles, a first cousin once removed of Angela Beyincé, and a niece of singer Solange Knowles. Media attention has been focused on Carter from birth because of her famous parents and extended family. In 2018, Carter attended first grade at the Center for Early Education, a private school in West Hollywood, California.",
+    "On January 5, 1980, she married Mathew Knowles, a Xerox salesman who would later quit his job to manage Destiny's Child. The pair share two children: Beyoncé (born 1981) and Solange (born 1986). She filed for divorce from Mathew in November 2009, dropped the matter in 2010, then refiled in August 2011. She stated discord or conflict of personalities that prevented them from reasonable expectation of reconciliation as the reason for the divorce. The divorce was finalized in November 2011."
+  ]
+},
+      {
+  "docid":"41357007",
+  "sentences":
+  [
+    "The Guardians Mikki Kendall wrote, \"In 'Flawless' (a track that leaked as 'Bow Down' over the summer), Beyonce quotes from author Chimamanda Ngozi Adichie's TedX talk 'We should all be feminists', adroitly addressing the idea that she is somehow anti-feminist for not fitting into the boxes others project onto her. It's clear that like a lot of black American women, the mainstream middle class white feminist narratives with which we are so familiar aren't necessarily compatible with Beyonce's view of herself. This album makes it clear that her feminism isn't academic; isn't about waves, or labels. It simply is a part of her as much as anything else in her life. She's pro-woman without being anti-man, and she wants the world to know that you can be feminist on a personal level without sacrificing emotions, friendships or fun."
+  ]
+},
+{
+  "docid":"20641178",
+  "sentences":
+  [
+    "Simon Colling from The West Australian described the performance as \"powerhouse\" and added, \"Beyonce's high-energy, high-voltage mix of song (loud, commercial R&B) and dance recalled names like Tina Turner, Aretha Franklin and rapper Missy Elliott... [and] Mariah Carey\". Joanna Horowitz of The Seattle Times noted that despite the inclusion of almost 10 different musical styles in the show's set list, the singer's \"own [musical] signature\" and focus were lacking. Nevertheless, Horowitz praised the singer's performing skills and summarized the concert as \"a hip-hop Cirque du Soleil — sequins galore, dramatic dance numbers, and Beyoncé at one point soaring\". The Observers Barbara Ellen wrote, \"she is a force of nature – delivering one of the most enjoyable well-paced shows I've seen in years\". However, she noted that Knowles is \"so steeped in professionalism that what should be magical can become mechanical.\" Noting influences by Tina Turner and Barbra Streisand during the tour, Ann Powers of Los Angeles Times writes: \"And she danced like only Beyonce can dance, with a combination of power, grace and smarts that fully unites Broadway choreography with urban street innovations ... Indeed, her production can be seen as a retelling of pop's history from a feminine viewpoint -- and as an argument for Beyonce as the ultimate realization of the female pop dream."
+  ]
+      }
+    ]
+  },
+  {
+    "number":2,
+    "original_query":"Does Los Angeles has good economy?",
+    "keyword_query":"Los Angeles Beyonce",
+    "kibana_query":
+    {
+      "query":
+{
+        "multi_match":
+  {
+          "query":"Los Angeles",
+          "fields":[],
+          "type":"best_fields"
+        }
+      }
+    },
+    "answer_type":"location",
+    "matches":
+    [
+      {
+  "docid":"18110",
+  "sentences":
+  [
+    "Los Angeles has a diverse economy with a broad range of industries, best known as the home of the Hollywood film industry, the world's largest by revenue; the city was an important site in the history of film. It also has one of the busiest container ports in the Americas. In 2018, the Los Angeles metropolitan area had a gross metropolitan product of over $1.0 trillion, making it the city with the third-largest GDP in the world, after New York and Tokyo. Los Angeles hosted the Summer Olympics in 1932 and 1984, and will also host in 2028. More recently, statewide droughts in California have strained both the city's and Los Angeles County's water security."
+  ]
+}
+    ]
+  },
+    {
+      "number":3,
+      "original_query":"What is BeyGOOD organization created?",
+      "keyword_query":"BeyGOOD, created",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"BeyGOOD, created",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"organisation",
+      "matches":
+      [
+        {
+	  "docid":"24620717",
+	  "sentences":
+	  [
+	    "In 2020, following the COVID-19 pandemic, Knowles took action with Beyoncé's charity foundation BeyGood through the #IDidMyPart campaign. Knowles proposed the initiative, following the high number of deaths as a result of contracting the virus in the African-American community in Houston. Knowles has also spoken to raise awareness on a number of US television and news programs, including CBS News and ABC News."
+	  ]
+	}
+      ]
+    },
+    {
+      "number":4,
+      "original_query":"who was the founder of BeyGOOD?",
+      "keyword_query":"BeyGOOD,founder",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"BeyGOOD,founder",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"organisation/person",
+      "matches":
+      [
+        {
+	  "docid":"46333155",
+	  "sentences":
+	  [
+	    "In 2020, following the COVID-19 pandemic, Knowles took action with Beyoncé's charity foundation BeyGood through the #IDidMyPart campaign. Knowles proposed the initiative, following the high number of deaths as a result of contracting the virus in the African-American community in Houston. Knowles has also spoken to raise awareness on a number of US television and news programs, including CBS News and ABC News."
+	  ]
+	}
+      ]
+    },
+    {
+      "number":5,
+      "original_query":"What has BeyGOOD done?",
+      "keyword_query":"BeyGOOD,achievement",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"BeyGOOD,achievement",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"organisation/achievements",
+      "matches":
+      [
+        {
+	  "docid":"24620717",
+	  "sentences":
+	  [
+	    "In 2020, following the COVID-19 pandemic, Knowles took action with Beyoncé's charity foundation BeyGood through the #IDidMyPart campaign. Knowles proposed the initiative, following the high number of deaths as a result of contracting the virus in the African-American community in Houston. Knowles has also spoken to raise awareness on a number of US television and news programs, including CBS News and ABC News."
+	  ]
+	}
+      ]
+    },
+    {
+      "number":6,
+      "original_query":"where is the griffith park?",
+      "keyword_query":"Los Angeles Beyonce,griffith park",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Los Angeles Beyonce,griffith park",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"location",
+      "matches":
+      [
+        {
+	  "docid":"37861875",
+	  "sentences":
+	  [
+	    "Griffith Park Zoo, referred to today as the Old Los Angeles Zoo, was a city-owned zoo in Los Angeles, California that opened in 1912 and closed in 1966 with the opening of the new Los Angeles Zoo. The abandoned site of the Griffith Park Zoo, complete with the ruins of animal enclosures, is now a picnic area featuring multiple hiking trails in Griffith Park."
+	  ]
+    
+	},
+  {
+	  "docid":"583413",
+	  "sentences":
+	  [
+	    "Griffith Park is a large municipal park at the eastern end of the Santa Monica Mountains, in the Los Feliz neighborhood of Los Angeles, California. The park includes popular attractions such as the Los Angeles Zoo, the Autry Museum of the American West, the Griffith Observatory, and the Hollywood Sign. Due to its appearance in many films, the park is among the most famous municipal parks in North America."
+	  ]
+    
+	}
+      ]
+    },
+    {
+      "number":7,
+      "original_query":"What are Beyoncé Knowles-Carter latest feature or album?",
+      "keyword_query":"albums, Beyoncé Knowles-Carter",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"albums, Beyoncé Knowles-Carter",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"person",
+      "matches":
+      [
+        {
+	  "docid":"53177925",
+	  "sentences":
+	  [
+	    "Shining\" is a song written and performed by American producer DJ Khaled as the lead single from his tenth studio album, Grateful (2017). The song features vocals from American singer Beyoncé and American rapper Jay-Z. The song was released on February 12, 2017, by We the Best and Epic Records. The song contains a sample of Osunlade's 2013 recording \"Dionne\" which itself samples 1970's \"Walk the Way You Talk\" by Dionne Warwick."
+	  ]
+	},
+  {
+	  "docid":"20146600",
+	  "sentences":
+	  [
+	    "In the United Kingdom, Sweet Dreams debuted at number 52 on the UK Singles Chart on July 18, 2009. It peaked at number five on the UK Singles Chart on August 9, 2009 for three consecutive weeks, and became Knowles' eighth top ten single in Britain as a solo artist. In Australia, the song peaked at number two on the ARIA Singles Chart on August 9, 2009. The song spent 38 consecutive weeks on the ARIA Singles Chart, where it last charted on March 1, 2010; it was certified 4× platinum by the Australian Recording Industry Association (ARIA) in 2023, for 280,000 equivalent units."
+	  ]
+	},
+  {
+	  "docid":"10445638",
+	  "sentences":
+	  [
+	    "Flaws and All\" is a song recorded by American singer Beyoncé from the deluxe edition of her second studio album, B'Day (2006). It was composed by Ne-Yo, Shea Taylor, Beyoncé and Solange Knowles, while Beyoncé Knowles and Taylor produced it. In the R&B song, Beyoncé shows appreciation for the love given by her man, who sees through all of her flaws and loves her unconditionally. \"Flaws and All\" received positive reviews from critics, who lauded Beyoncé's emotion and vulnerability on the track. Some critics also noted that the song was better than some of the songs on the standard edition of B'Day."
+	  ]
+	},
+  {
+	  "docid":"48232226",
+	  "sentences":
+	  [
+	    "On August 28, 2011, Beyoncé's pregnancy was announced during her performance of Love On Top at the 2011 MTV Video Music Awards. She finished the performance by unbuttoning her blazer and rubbing her stomach to confirm the pregnancy. Blue Ivy Carter was born on January 7, 2012, to Beyoncé and Jay-Z at Lenox Hill Hospital in Manhattan, New York. CBS wrote Carter was Arguably the world's most famous baby, aside from Prince George and North West, the eldest child of Kim Kardashian and Kanye West. Two days after her birth, Time dubbed Carter the most famous baby in the world. Since her birth, her parents have worked to secure trademarks of their daughter's name for everything, including books, shampoos, video games, and more. Beyoncé argued Carter is a cultural icon during the trademark process. Through her mother, Carter is a granddaughter of Tina and Mathew Knowles, a first cousin once removed of Angela Beyincé, and a niece of singer Solange Knowles. Media attention has been focused on Carter from birth because of her famous parents and extended family. In 2018, Carter attended first grade at the Center for Early Education, a private school in West Hollywood, California."
+	  ]
+	}
+      ]
+    },
+    {
+      "number":8,
+      "original_query":"when did Beyoncé Knowles-Carter give birth?",
+      "keyword_query":"Beyoncé Knowles-Carter, birth",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"birth, Beyoncé Knowles-Carter",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"person",
+      "matches":
+      [
+        {
+	  "docid":"48232226",
+	  "sentences":
+	  [
+	    "Blue Ivy Carter (born January 7, 2012) is an American singer. She is the first-born daughter of musicians Jay-Z and Beyoncé. Two days after her birth, Time dubbed Carter the most famous baby in the world. That same day, her vocals were featured on the song Glory, by her father Jay-Z, which earned her a Guinness World Record for being the youngest person to have a charted song on any Billboard chart. She has been the subject of depictions in media, including impersonations on Saturday Night Live and RuPaul's Drag Race."
+	  ]
+	},
+  {
+	  "docid":"53177925",
+	  "sentences":
+	  [
+	    "Written and composed by Burt Bacharach, Jahron Brathwaite, Ingrid Burley, Shawn Carter, Hal David, Floyd Hills, Khaled Khaled, and Beyonce Knowles, the song features references to the lives and success of the Knowles-Carter couple, including the twenty-one Grammy Awards won to date by the rapper, the platinum records received by the RIAA for each album released, Knowles's twenty years of music success, and twins, Sir and Rumi (born June 18, 2017), are mentioned for the first time."
+	  ]
+	}
+      ]
+    },
+    {
+      "number":9,
+      "original_query":"What collaborations did Beyoncé Knowles-Carter?",
+      "keyword_query":"Beyoncé Knowles-Carter, collaborations ",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Beyoncé Knowles-Carter, collaborations",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"person",
+      "matches":
+      [
+        {
+	  "docid":"48232226",
+	  "sentences":
+	  [
+	    "In 2020, she was featured on Brown Skin Girl, a single by her mother Beyoncé, alongside Wizkid and Saint Jhn. The song won her accolades including an NAACP Image Award; the BET Her Award, making her the youngest winner of a BET Award; and a Grammy Award for Best Music Video for the same song, which earned her another Guinness World Record for being the youngest individually credited Grammy Award winner, and the second youngest overall."
+	  ]
+	},
+  {
+	  "docid":"48232226",
+	  "sentences":
+	  [
+	    "Blue Ivy Carter (born January 7, 2012) is an American singer. She is the first-born daughter of musicians Jay-Z and Beyoncé. Two days after her birth, Time dubbed Carter the most famous baby in the world. That same day, her vocals were featured on the song Glory, by her father Jay-Z, which earned her a Guinness World Record for being the youngest person to have a charted song on any Billboard chart. She has been the subject of depictions in media, including impersonations on Saturday Night Live and RuPaul's Drag Race."
+	  ]
+	}
+      ]
+    },
+    {
+      "number":10,
+      "original_query":"Where is BeyGOOD located?",
+      "keyword_query":"BeyGOOD ,located ",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"BeyGOOD ,location",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"Location/organisation",
+      "matches":
+      [
+        {
+	  "docid":"24620717",
+	  "sentences":
+	  [
+	    "In 2020, following the COVID-19 pandemic, Knowles took action with Beyoncé's charity foundation BeyGood through the #IDidMyPart campaign. Knowles proposed the initiative, following the high number of deaths as a result of contracting the virus in the African-American community in Houston. Knowles has also spoken to raise awareness on a number of US television and news programs, including CBS News and ABC News."
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":11,
+      "original_query":"What venues has Beyoncé Knowles-Carter performed in Los Angeles Beyonce?",
+      "keyword_query":"Beyoncé Knowles-Carter ,Los Angeles Beyonce ",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Beyoncé Knowles-Carter ,Los Angeles Beyonce ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"Location",
+      "matches":
+      [
+        {
+	  "docid":"8899890",
+	  "sentences":
+	  [
+	    "Beyoncé's mother and designer Tina Knowles, House of Deréon, Giorgio Armani, Versace, Elie Saab and Herve Leger served as the designers for the outfits of the tour. Jon Pareles of The New York Times described the clothes as mainly silvery, ranging from miniskirts to formal dresses, flesh-toned bodysuit to bikini to negligee. Pareles further noted that The wardrobe entices men, but it's also a means of self-assertion. J. Freedom du Lac of The Washington Post described the costumes during the show as spangly. Lee Hildebrand of the San Francisco Chronicle praised the costumes saying that every one [is] fabulously glamorous, most of them tailored to highlight the singer's ample cleavage and a pair of legs to rival Tina Turner's. At one point, when the legs were concealed by a long scarlet gown, wind blew from underneath to expose them. Sarah Rodman of The Boston Globe praised the floor-length gown but disliked the tinfoil mini worn by Knowles. Lisnaree Vichitsorasatra of The Nation praised Knowles' look, saying that she was like a glittering goddess in a revealing outfit. Frank Scheck of The Hollywood Reporter also echoed her statements, to say that Beyonce looks terrific is probably redundant. Her fashion parade of form-fitting, eye-catching costumes – most notably a belly dancer's get-up in which she demonstrated some hip-shaking moves that indicated Shakira better watch her back – provided ample opportunities for shameless leering. Ann Powers of the Los Angeles Times commented that the camouflage outfits her male dancers sometimes wore... felt right for a show that sometimes seemed like a military operation, expertly executed. Irish Independents Eamon Sweeney noted that Knowles looked absolutely stunning and added, I have to confess that the sight of Beyoncé ripping off a short cocktail dress to reveal a barely there bodysuit will linger in my memory for years to come. A writer of The StarPhoenix wrote that Knowles looked like a silver-clad siren rose further saying that it was almost surreal to see the woman who frequents the covers of fashion magazines in the same room. Tonya Turner from The Courier-Mail praised Knowles for looking every bit the dream girl in a sparkling silver floor-length gown."
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":12,
+      "original_query":"Who is Beyoncé Knowles-Carter family?",
+      "keyword_query":"Beyoncé Knowles-Carter, family",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Beyoncé Knowles-Carter, family ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"person",
+      "matches":
+      [
+        {
+	  "docid":"24620717",
+	  "sentences":
+	  [
+	    "Through her marriage with Lawson, Knowles became a stepmother to his daughter Bianca Lawson and his son Ricky. She also often refers to Destiny's Child member Kelly Rowland as her daughter, whom she helped raise from the age of 11 when Rowland began living with the Knowles family. In an open letter published by Time magazine in 2015, Knowles stated I gave birth to two of you, but I have four incredible daughters referring to Beyoncé, Solange, Kelly, and her niece Angie Beyincé.",
+      "Celestine Beyoncé Knowles-Lawson (née Beyonce; born January 4, 1954) is an American businesswoman, fashion designer, and philanthropist known for establishing the brands House of Deréon and Miss Tina by Tina Knowles. She is the mother of singers Beyoncé and Solange Knowles, and, until 2011, was married to their father Mathew Knowles, the manager of Destiny's Child."
+	  ]
+	},
+  {
+	  "docid":"48232226",
+	  "sentences":
+	  [
+	    "Blue Ivy Carter (born January 7, 2012) is an American singer. She is the first-born daughter of musicians Jay-Z and Beyoncé. Two days after her birth, Time dubbed Carter the most famous baby in the world. That same day, her vocals were featured on the song Glory, by her father Jay-Z, which earned her a Guinness World Record for being the youngest person to have a charted song on any Billboard chart. She has been the subject of depictions in media, including impersonations on Saturday Night Live and RuPaul's Drag Race."
+      
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":13,
+      "original_query":"What are Beyoncé Knowles-Carter Grammy Awards ?",
+      "keyword_query":"Beyoncé Knowles-Carter, Grammy Awards",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Beyoncé Knowles-Carter, Grammy Awards ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"person",
+      "matches":
+      [
+        {
+	  "docid":"53177925",
+	  "sentences":
+	  [
+	    "Written and composed by Burt Bacharach, Jahron Brathwaite, Ingrid Burley, Shawn Carter, Hal David, Floyd Hills, Khaled Khaled, and Beyonce Knowles, the song features references to the lives and success of the Knowles-Carter couple, including the twenty-one Grammy Awards won to date by the rapper, the platinum records received by the RIAA for each album released, Knowles's twenty years of music success, and twins, Sir and Rumi (born June 18, 2017), are mentioned for the first time."
+	  ]
+	},
+  {
+	  "docid":"35588778",
+	  "sentences":
+	  [
+	    "The EP consists of two tracks. Wishing on a Star was originally covered by Beyoncé Knowles in 2004, for the live album Live at Wembley. The song was than used to promote the Tommy Hilfiger fragrance. In 2005, the song was included on the soundtrack of the movie Roll Bounce. At the 48th Grammy Awards (2006), Knowles' version was nominated for Best Female R&B Vocal Performance. Knowles released the song as a promotional single on August 17, 2010. The song that appears on the EP was credited originally from Live at Wembley."
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":14,
+      "original_query":"which are the best places in Los Angeles?",
+      "keyword_query":"Los Angeles, best places",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Los Angeles, best places ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"Location",
+      "matches":
+      [
+        {
+	  "docid":"40245902",
+	  "sentences":
+	  [
+	    "The Shrader House (1927 N. Highland Avenue) was another example of Spanish Colonial Revival architecture. Designed by Mead & Requa and built about 1915, a committee of architects representing the American Institute of Architects selected it as one of the best small houses in Los Angeles; in its February 1920 issue, House Beautiful magazine called it one of the three best homes in Los Angeles. It operated as the Hollywood Wedding Chapel beginning in 1931.",
+      "Hollywood Heights is a neighborhood in the Hollywood Hills of Los Angeles, bounded by the Hollywood Bowl on the north, Highland Avenue on the east, Outpost Estates on the west, and Franklin Avenue on the south. It includes a number of notable historic homes and buildings and has been home to numerous people in the film and music industries, dating back to the silent film era."
+	  ]
+	},
+  {
+	  "docid":"19541540",
+	  "sentences":
+	  [
+	    "This is a list of Los Angeles Historic-Cultural Monuments in the Harbor area of the city of Los Angeles, California, in the United States. There are more than 25 Los Angeles Historic-Cultural Monuments (LAHCM) in this area, and several additional sites have been designated as California Historical Landmarks (CHL) or listed on the National Register of Historic Places (NRHP). They are designated by the City's Cultural Heritage Commission.",
+      "The Harbor Area includes some of the city's most historic sites, several of which are also listed on the National Register of Historic Places. Two ships located in San Pedro have also received higher distinction as National Historic Landmarks. They are the Ralph Scott, a fireboat used for several decades by the Los Angeles Fire Department, and the Lane Victory, a World War II Victory ship."
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":15,
+      "original_query":"which city is Hollowood located?",
+      "keyword_query":"Hollywood, city",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Hollywood, city ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"Location",
+      "matches":
+      [
+        {
+	  "docid":"40245902",
+	  "sentences":
+	  [
+	    "The Shrader House (1927 N. Highland Avenue) was another example of Spanish Colonial Revival architecture. Designed by Mead & Requa and built about 1915, a committee of architects representing the American Institute of Architects selected it as one of the best small houses in Los Angeles; in its February 1920 issue, House Beautiful magazine called it one of the three best homes in Los Angeles. It operated as the Hollywood Wedding Chapel beginning in 1931."
+	  ]
+	},
+  {
+	  "docid":"1794006",
+	  "sentences":
+	  [
+	    "East Hollywood is a densely populated neighborhood of 78,000+ residents that is part of the Hollywood area of the central region of Los Angeles, California. It is notable for being the site of Los Angeles City College, Barnsdall Park, and a hospital district. There are seven public and five private schools, a Los Angeles Public Library branch, and three hospitals. Almost two-thirds of the people living there were born outside the United States, and 90% were renters. In 2000, the neighborhood had high percentages of never-married people and single parents.",
+      "In 1910 the towns of Hollywood and East Hollywood approved annexation to the City of Los Angeles in order to tap into the city water supply. In 1914, Children's Hospital was relocated from downtown LA to Vermont Avenue and Sunset Boulevard."
+	  ]
+	},
+  {
+	  "docid":"107702",
+	  "sentences":
+	  [
+	    "West Hollywood is a city in Los Angeles County, California, United States. Incorporated in 1984, it is home to the Sunset Strip. As of the 2020 U.S. Census, its population was 35,757.",
+      "Most historical writings about West Hollywood begin in the late-18th century with European colonization when the Portuguese explorer João Rodrigues Cabrilho traveled to and eventually laid claim on the region for Spain. Around 5,000 of the indigenous inhabitants from the Tongva Indian tribe canoed out to greet the ship. The Tongva tribe was a nation of hunter-gatherers known for their reverence for dance and courage. By 1771, these native people had been severely ravaged by the diseases brought in by the Europeans from across wide oceans. The Spanish mission system changed the name of the Tongva tribe to Gabrielinos, in reference to the Mission de San Gabriel. Early in 1770 Gaspar de Portola's Mexican expeditionary force stopped just south of the Santa Monica Mountains near what would become West Hollywood. Here they collected pitch (brea in Spanish) from tar pits which they used to waterproof their belongings and to say Mass. The Gabrielinos are believed to have burned the pitch for fuel."
+	  ]
+	},
+  {
+	  "docid":"871371",
+	  "sentences":
+	  [
+	    "Hollywood Hills is a residential neighborhood in the central region of Los Angeles, California. The neighborhood borders Studio City, Universal City and Burbank on the north, Griffith Park on the north and east, Los Feliz on the southeast, Hollywood on the south and Hollywood Hills West on the west. It includes Forest Lawn Memorial Park, Mount Sinai Memorial Park Cemetery, the Hollywood Reservoir, the Hollywood Sign, the Hollywood Bowl and the John Anson Ford Theater.",
+      "The Hollywood Hills straddle the Cahuenga Pass within the Santa Monica Mountains. Hollywood Hills is bisected southeast–northwest by US 101. The neighborhood is bounded on the northwest and north by the Los Angeles city line, on the east by a fireroad through Griffith Park, continuing on Western Avenue, on the south by Franklin Avenue and on the west by an irregular line that includes Outpost Drive."
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":16,
+      "original_query":"Which city has the best beaches?",
+      "keyword_query":"Best beaches, cities",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Best beaches, cities ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"Location",
+      "matches":
+      [
+        {
+	  "docid":"768199",
+	  "sentences":
+	  [
+	    "Beach Cities is a nickname for the coastal area of Los Angeles County comprising the oceanfront cities of Manhattan Beach, Hermosa Beach, and Redondo Beach, located on the south end of the Santa Monica Bay west and south of downtown Los Angeles, north of the Palos Verdes Peninsula on the Pacific Ocean in Southern California. Neighboring Torrance also shares a strip of beach property in the South Bay, but is generally excluded from the group."
+	  ]
+	},
+  {
+	  "docid":"19541540",
+	  "sentences":
+	  [
+	    "This is a list of Los Angeles Historic-Cultural Monuments in the Harbor area of the city of Los Angeles, California, in the United States. There are more than 25 Los Angeles Historic-Cultural Monuments (LAHCM) in this area, and several additional sites have been designated as California Historical Landmarks (CHL) or listed on the National Register of Historic Places (NRHP). They are designated by the City's Cultural Heritage Commission.",
+      "The Harbor Area includes some of the city's most historic sites, several of which are also listed on the National Register of Historic Places. Two ships located in San Pedro have also received higher distinction as National Historic Landmarks. They are the Ralph Scott, a fireboat used for several decades by the Los Angeles Fire Department, and the Lane Victory, a World War II Victory ship."
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":17,
+      "original_query":"which is the short eared dog?",
+      "keyword_query":" short eared dog",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"short eared dog ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"animal",
+      "matches":
+      [
+        {
+	  "docid":"2224886",
+	  "sentences":
+	  [
+	    "The short-eared dog (Atelocynus microtis), also known as the short-eared zorro or small-eared dog, is a unique and elusive canid species endemic to the Amazonian basin. This is the only species assigned to the genus Atelocynus.",
+      "he short-eared dog has many names in the local languages where it is endemic, including in Portuguese, (short-ear fox) in Spanish, in Chiquitano, in Yucuna, in Guarayu, in Mooré, and achuj in Ninam and Mosetén."
+      
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":18,
+      "original_query":"In which city is the Crypto.com Arena located?",
+      "keyword_query":"Crypto.com Arena",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Crypto.com Arena ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"Location",
+      "matches":
+      [
+        {
+	  "docid":"516154",
+	  "sentences":
+	  [
+	    "Crypto.com Arena is a multi-purpose indoor arena in Downtown Los Angeles. The main attraction of the L.A. Live development, it is located next to the Los Angeles Convention Center complex along Figueroa Street. The arena opened on October 17, 1999; it was previously known as Staples Center until December 2021 when Crypto.com acquired the naming rights. The arena is the flagship attraction of locally-based Anschutz Entertainment Group."
+      
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":19,
+      "original_query":"which is the Japanese raccoon dog?",
+      "keyword_query":"Japanese raccoon dog",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Japanese raccoon dog ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"animal",
+      "matches":
+      [
+        {
+	  "docid":"16336361",
+	  "sentences":
+	  [
+	    "The Japanese raccoon dog (Nyctereutes viverrinus), is a species of canid endemic to Japan. It is one of two species in the genus Nyctereutes, alongside the common raccoon dog (N. procyonoides), of which it was traditionally thought to be a subspecies (Nyctereutes procyonoides viverrinus).",
+      "Within Japanese folklore, Japanese raccoon dogs (tanuki) have had a significant role since ancient times. They are reputed to be mischievous and jolly, masters of disguise and shapeshifting but somewhat gullible and absent-minded. The animals have also been common in Japanese art, particularly as subjects for statues.",
+      "While Japanese raccoon dogs are prominent in Japanese folklore and proverbs, they were not always clearly distinguished from other animals with a similar appearance."
+      
+	  ]
+	}
+  
+      ]
+    },
+    {
+      "number":20,
+      "original_query":"What are some dog species?",
+      "keyword_query":"Dog species",
+      "kibana_query":
+      {
+        "query":
+	{
+          "multi_match":
+	  {
+            "query":"Dog species ",
+            "fields":[],
+            "type":"best_fields"
+          }
+        }
+      },
+      "answer_type":"animal",
+      "matches":
+      [
+        {
+	  "docid":"2224886",
+	  "sentences":
+	  [
+	    "The short-eared dog (Atelocynus microtis), also known as the short-eared zorro or small-eared dog, is a unique and elusive canid species endemic to the Amazonian basin. This is the only species assigned to the genus Atelocynus.",
+      "The short-eared dog has many names in the local languages where it is endemic, including in Portuguese, (short-ear fox) in Spanish, in Chiquitano, in Yucuna, in Guarayu, in Mooré, and achuj in Ninam and Mosetén."
+	  ]
+	},
+  {
+	  "docid":"16336361",
+	  "sentences":
+	  [
+	    "The Japanese raccoon dog (Nyctereutes viverrinus), is a species of canid endemic to Japan. It is one of two species in the genus Nyctereutes, alongside the common raccoon dog (N. procyonoides), of which it was traditionally thought to be a subspecies (Nyctereutes procyonoides viverrinus).",
+      "The Japanese raccoon dog has a smaller stomach and shorter fur of lesser insulation value than mainland raccoon dogs. A rare, white colour type can also be found."
+	  ]
+	},
+  {
+	  "docid":"27099167",
+	  "sentences":
+	  [
+	    "Nucella canaliculata, commonly known as the channeled dog winkle or the channeled purple, is a species of sea snail, a marine gastropod mollusk in the family Muricidae, the murex snails or rock snails. The shell grows to a maximum length of about . This species is distributed in the northeastern Pacific Ocean from the Aleutian Islands to California.",
+      "Nucella canaliculata has a robust shell with a strong spire, a short notch to house the siphon, and up to seven whorls. The whorls are demarcated from each other by deep grooves and are sculpted with many low spiral ridges of approximately even size. The surface of the shell is matt; small individuals are often orange while larger ones are grayish or pale brown. The margins of the aperture are often yellow, and the animal's soft parts are protected by a horny operculum. The maximum length of this species is about . This dog winkle can be distinguished from the frilled dog winkle (Nucella lamellosa) by the absence of frilled decoration, and from the northern striped dog winkle (Nucella ostrina) by the evenness of the size of the sculpted ridges."
+	  ]
+	}
+  
+      ]
+    }
+  ]
+}
